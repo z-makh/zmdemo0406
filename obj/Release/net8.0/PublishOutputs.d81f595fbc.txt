@@ -1,0 +1,7 @@
+C:\Users\Devoteam\Documents\AZ204\Codecademy\Azure App Service\demo03\zmdemo0406\bin\Release\net8.0\publish\zmdemo0406.exe
+C:\Users\Devoteam\Documents\AZ204\Codecademy\Azure App Service\demo03\zmdemo0406\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Devoteam\Documents\AZ204\Codecademy\Azure App Service\demo03\zmdemo0406\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Devoteam\Documents\AZ204\Codecademy\Azure App Service\demo03\zmdemo0406\bin\Release\net8.0\publish\zmdemo0406.dll
+C:\Users\Devoteam\Documents\AZ204\Codecademy\Azure App Service\demo03\zmdemo0406\bin\Release\net8.0\publish\zmdemo0406.deps.json
+C:\Users\Devoteam\Documents\AZ204\Codecademy\Azure App Service\demo03\zmdemo0406\bin\Release\net8.0\publish\zmdemo0406.runtimeconfig.json
+C:\Users\Devoteam\Documents\AZ204\Codecademy\Azure App Service\demo03\zmdemo0406\bin\Release\net8.0\publish\zmdemo0406.pdb

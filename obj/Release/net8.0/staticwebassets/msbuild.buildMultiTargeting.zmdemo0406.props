@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\zmdemo0406.props" />
+</Project>
